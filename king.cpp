@@ -25,4 +25,6 @@ int main()
     else{
         cout<<"Not Prime Number"<<endl;
     }
+    cout<<"feature"<<endl;
+
 }
